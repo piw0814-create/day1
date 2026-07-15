@@ -1,5 +1,4 @@
-# 파이썬 컴파일 파일 (Byte-compiled / optimized / DLL
-files)
+# 파이썬 컴파일 파일 (Byte-compiled / optimized / DLL files)
 __pycache__/
 *.py[cod]
 *$py.class
@@ -17,3 +16,6 @@ dist/
 .idea/
 # 맥(Mac) 시스템 파일
 .DS_Store
+# 테스트 및 Ruff 캐시
+.pytest_cache/
+.ruff_cache/
