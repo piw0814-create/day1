@@ -181,7 +181,7 @@ python -m pytest
 ## 10. 코드 스타일 검사
 
 ```bash
-python -m ruff check .
+python -m ruff check
 ```
 
 실행 결과:
